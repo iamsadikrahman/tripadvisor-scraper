@@ -1,5 +1,4 @@
 import puppeteer from 'puppeteer';
-import fs from 'fs';
 import ObjectsToCsv from 'objects-to-csv';
 
  // Launch a headless browser
